@@ -377,7 +377,7 @@ body {
   display: inline-block;
   padding-top: 12px;
   margin-right: 45px;
-  background-color: bisque;
+  /* background-color: bisque; */
 }
 .gnb {
   position: relative;
